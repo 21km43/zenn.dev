@@ -1,8 +1,8 @@
 ---
-title: "Sample"
+title: "Sandbox"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["mermaid"]
+topics: ["ALL"]
 published: false
 ---
 
