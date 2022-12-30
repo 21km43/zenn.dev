@@ -3,7 +3,7 @@ title: "プライバシーポリシー"
 emoji: "🔏"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["policy"]
-published: true
+published: false
 ---
 
 Play Consoleでアプリをアップロードするのにプライバシーポリシーが必須となってしまったので掲載しています。（といっても個人情報を収集するつもりは今のところないんだけど...）
